@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @YvnCde81
+- 👋 HI, I’M @YVNCDE81
+
 - 👀 I’m interested in science and technologie, I enjoy learning about it. I recently fell in love with the Apple ecosystem and decided to lean towards Mobile developement
-  on iOS and then discover more about that ecosystem and I now I wish futher my learning on that plaform. 
-- 🌱 I’m currently learning iOS/Mac OS developement with swift which is the main language for the apple ecosystem 
-- 💞️ I’m looking to collaborate on open source apple centred project. 
-- 📫 How to reach me for now on X, Mastodon and linked in. 
-- 😄 Pronouns: Him/He 
+  on iOS and then discover more about that ecosystem and I now I wish futher my learning on that plaform.
+
+  
+- 🌱 I’m currently learning iOS/Mac OS developement with swift which is the main language for the apple ecosystem
+  
+- 💞️ I’m looking to collaborate on open source apple centred project.
+
+  
+- 📫 How to reach me by email: ygauthier81@icloud.com
+
+  
+- 😄 Pronouns: Him/He
+
+  
 - ⚡ Fun fact: ...
 
 <!---
